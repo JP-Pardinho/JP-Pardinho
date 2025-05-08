@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou João Pedro Pardinho!
 
-🎓 Estudante de Ciencia da computação na Universidade Federal do Espirito Santo
+🎓 Estudante de Ciencia da computação na Universidade Federal do Espirito Santo <br>
 💻 Desenvolvedor focado em desenvolvimento web 
 
 ---
