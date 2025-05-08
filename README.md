@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Pedro Pardinho!
+# 👋 Olá, eu sou João Pedro Pardinho (ou só Pardin 😄) 
 
 🎓 Estudante de Ciencia da computação na Universidade Federal do Espirito Santo <br>
 💻 Desenvolvedor focado em desenvolvimento web 
