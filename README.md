@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Pedro (ou Pardin 😄)
+## 👋 Olá, eu sou o João Pedro Pardinho (ou só Pardin)
 
 🎓 Estudante de Ciencia da computação na Universidade Federal do Espirito Santo <br>
 💻 Desenvolvedor focado em desenvolvimento web 
@@ -6,7 +6,7 @@
 ---
 
 ## 🔧 Tecnologias e Ferramentas
-![Suas Tecnologias principais - ex: C, JS, Python, etc.](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,vscode)
+![Tecnologias principais](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,vscode)
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-## ✨ Curiosidades
+## 🧠 Curiosidades
 
 - 🔭 Atualmente estudando: Me graduando em Ciência da Computação na UFES e participando do programa MS-Code, com foco em desenvolvimento web.
 - 🎯 Foco do ano: Aprimorar meus conhecimentos em tecnologias web e construir projetos práticos que consolidem meu aprendizado.
