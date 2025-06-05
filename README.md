@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o João Pedro Pardinho (ou só Pardin)
 
 🎓 Estudante de Ciencia da computação na Universidade Federal do Espirito Santo <br>
-💻 Desenvolvedor focado em desenvolvimento web 
+💻 Focado em desenvolvimento web 
 
 ---
 
