@@ -6,7 +6,7 @@
 ---
 
 ## 🔧 Technologies & Tools
-![Main Technologies](https://skillicons.dev/icons?i=html,css,js,php,c,java,python,git&theme=light)
+![Main Technologies](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,c,java,python,git&theme=light)
 
 ---
 
