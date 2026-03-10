@@ -11,8 +11,8 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jp-pardinho&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-pardinho&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=jp-pardinho&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-pardinho&layout=compact&theme=radical)
 
 ---
 
