@@ -6,7 +6,7 @@
 
 ## Tecnologias & Ferramentas
 
-![Main Technologies](https://skillicons.dev/icons?i=php,mysql,symfony,laravel,react,tailwind,bootstrap&theme=light)
+![Main Technologies](https://skillicons.dev/icons?i=php,mysql,symfony,laravel,react,tailwind&theme=light)
 
 ---
 
